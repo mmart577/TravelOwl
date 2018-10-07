@@ -9,5 +9,11 @@
     </h1>
     <label for="search">Enter a destination</label>
     <input id="search" type="text">
+    <h2>
+      Travel Buddies
+    </h2>
+    <p>
+      Cheapen your travelling costs by sharing the expenses and experiences with travel buddies. You can post your own itinerary and let others join it, or you can choose to join the itineraries of others.
+    </p>
   </body>
 </html>
